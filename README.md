@@ -4,8 +4,9 @@ This project is an example for how to implement the [Agora SDK](https://www.goog
 It showcases how to create an Agora channel, how to join it and supports features like switching the camera and toggling the microphone.
 Multiple remote users can join the channel simultaneously.
 
-![Screenshot_2021-12-19-13-17-16-00_273afa6be60c88abcd0b5639793f0c97](https://user-images.githubusercontent.com/23200445/146667577-9e67c98f-c5e4-4646-9000-190ddcf92c5d.jpg)
-![Screenshot_2021-12-19-13-17-41-18_273afa6be60c88abcd0b5639793f0c97](https://user-images.githubusercontent.com/23200445/146667579-bd9c117f-6bb7-4684-afd9-6003cae9c05a.jpg)
+![Screenshot_2021-12-19-13-17-16-00_273afa6be60c88abcd0b5639793f0c97](https://user-images.githubusercontent.com/23200445/146667596-8c46a96d-7708-40a3-bccc-79ff6cadcf29.jpg)
+![Uploading Screenshot_2021-12-19-13-17-41-18_273afa6be60c88abcd0b5639793f0c97.jpg…]()
+
 
 
 ## Instructions
