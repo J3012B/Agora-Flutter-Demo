@@ -6,7 +6,8 @@ Multiple remote users can join the channel simultaneously.
 
 ![Screenshot_2021-12-19-13-17-16-00_273afa6be60c88abcd0b5639793f0c97](https://user-images.githubusercontent.com/23200445/146667596-8c46a96d-7708-40a3-bccc-79ff6cadcf29.jpg)
 
-![Screenshot_2021-12-19-13-17-41-18_273afa6be60c88abcd0b5639793f0c97](https://user-images.githubusercontent.com/23200445/146667606-72d86de5-51ed-4e46-a303-1f27248d6389.jpg)
+![Screenshot_2021-12-19-15-45-52-46_273afa6be60c88abcd0b5639793f0c97](https://user-images.githubusercontent.com/23200445/146667650-2fda981c-e7a5-41da-a6d5-935d30416169.jpg)
+
 
 
 
